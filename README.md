@@ -9,3 +9,6 @@ Just a list of useful libs to use on projects.
 
 ## DateTime formatting  
 [Moment.js](https://momentjs.com/)
+
+## Styling
+[ParticlesJs](https://github.com/VincentGarreau/particles.js/)
